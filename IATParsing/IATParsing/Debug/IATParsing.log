@@ -1,0 +1,4 @@
+﻿  Parser.cpp
+H:\Visual Studio 2022\IATParsing\IATParsing\Parser.cpp(19,21): warning C4018: '<': incompatibilidade de signed/unsigned
+H:\Visual Studio 2022\IATParsing\IATParsing\Parser.cpp(41,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  IATParsing.vcxproj -> H:\Visual Studio 2022\IATParsing\Debug\IATParsing.exe

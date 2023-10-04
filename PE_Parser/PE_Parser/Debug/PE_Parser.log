@@ -1,0 +1,3 @@
+﻿  Main.cpp
+H:\Visual Studio 2022\PE_Parser\PE_Parser\Main.cpp(50,12): warning C4244: 'inicializando': conversão de 'std::streamoff' para 'int', possível perda de dados
+  PE_Parser.vcxproj -> H:\Visual Studio 2022\PE_Parser\Debug\PE_Parser.exe
